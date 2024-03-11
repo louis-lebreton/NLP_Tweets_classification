@@ -1,7 +1,7 @@
 # NLP project : Tweets classification
 
 <p align="center">
-<img src="img.jpg" alt="corr_circle" width="450"/>
+<img src="img.jpg" alt="img" width="450"/>
 </p>
 
 ### Project goal : 
