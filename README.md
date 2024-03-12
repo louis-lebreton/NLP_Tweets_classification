@@ -4,13 +4,13 @@
 <img src="img.jpg" alt="img" width="250"/>
 </p>
 
-### Project goal : 
+### Project goal
 Are these tweets talking about a natural disaster ?
 
-### Project steps :
+### Project steps
 - Data analysis
 - Tokenization with Transformers (BERT)
 - Neural Networks with Keras
 
-### Libraries used :
+### Libraries used
 tensorflow, keras, transformers
