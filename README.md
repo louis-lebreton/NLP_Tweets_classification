@@ -1,7 +1,7 @@
 # NLP project : Tweets classification
 
 <p align="center">
-<img src="img.jpg" alt="logo" width="250"/>
+<img src="img.jpg" alt="former_twitter_logo" width="250"/>
 </p>
 
 ### Project goal
